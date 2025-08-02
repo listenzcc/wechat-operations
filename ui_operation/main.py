@@ -7,6 +7,8 @@ Copyright & Email: chuncheng.zhang@ia.ac.cn
 Purpose:
     Real time WeChat operation with uiautomation
 
+    - <https://juejin.cn/post/7188000854580936764>
+
 Functions:
     1. Requirements and constants
     2. Function and class
