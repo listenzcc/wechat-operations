@@ -1,0 +1,5 @@
+2025-08-02 20:27:52.232 console.py[1550] _collect_renderables -> Find Control Timeout(10s): {Name: '微信', ControlType: WindowControl}
+2025-08-02 20:31:32.446 main.py[33] <module> -> Find Control Timeout(10s): {ControlType: TextControl}
+2025-08-02 20:32:07.416 main.py[33] <module> -> Find Control Timeout(10s): {ControlType: TextControl}
+2025-08-02 20:35:38.127 main.py[35] <module> -> Find Control Timeout(10s): {ControlType: TextControl}
+2025-08-02 20:57:42.106 console.py[1550] _collect_renderables -> Find Control Timeout(10s): {ControlType: ListControl}
